@@ -48,3 +48,25 @@ In the image below you can find some score examples.
 More about ten pin bowling here: http://en.wikipedia.org/wiki/Ten-pin_bowling
 
 ![Ten Pin Score Example](images/example_ten_pin_scoring.png)
+
+## How to install
+
+First you need to clone the depository on your local machine. To do so, please open your favourite CLI and use the following commands:
+
+```
+git clone git@github.com:lunaticnick/makersacademy-mcw05-bowling-challenge.git local_directory_name
+cd local_directory_name
+```
+
+#### Play ####
+
+and then open ```index.html```, which is located inside **src** folder, using your favourite browser.
+
+![Game interface](images/game.png)
+
+
+#### Testing Framework ####
+
+If you want to see the testing done using [Jasmine](https://jasmine.github.io) please open ```SpecRunner.html```, which is located in root, using your favourite browser.
+
+![test interface](images/tests.png)
